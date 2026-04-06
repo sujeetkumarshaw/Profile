@@ -147,4 +147,4 @@ Data Engineer specializing in large-scale ETL pipelines, data lake architectures
 </p>
 
 <!-- Profile views counter -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square&label=Profile+views" />
+<img src="https://komarev.com/ghpvc/?username=sujeetkumarshaw&color=blue&style=flat-square&label=Profile+views" />
