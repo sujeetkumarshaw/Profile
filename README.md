@@ -44,9 +44,11 @@ Data Engineer specializing in large-scale ETL pipelines, data lake architectures
 ## Tech stack
 
 **Languages**
-```
-Python · Scala · SQL · SparkSQL
-```
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SparkSQL](https://img.shields.io/badge/SparkSQL-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
 **Big Data & Processing**
 
@@ -88,6 +90,9 @@ Python · Scala · SQL · SparkSQL
 - Migrated 15+ pipelines from Hive → Data Lake + Snowflake on EMR/EKS
 - Reduced data latency by **80%** by moving from batch snapshots to streaming ingestion
 - Built Iceberg-based pipelines for multi-source data (S3, Snowflake) with schema evolution
+- Leveraged **GenAI tools** across the development lifecycle — accelerating code generation, 
+  automating documentation, and translating business requirements into pipeline-ready artifacts, 
+  reducing overall development time by ~30%
 
 `PySpark` `Scala` `Snowflake` `Apache Iceberg` `AWS EMR` `Kinesis` `EKS` `Tableau`
 
@@ -126,15 +131,6 @@ Python · Scala · SQL · SparkSQL
 - Implemented automated re-ingestion strategies and log-based failure monitoring
 
 `ADF` `Databricks` `PySpark` `Hive` `Apache NiFi` `Tableau`
-
----
-
-## GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujeetkumarshaw&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeetkumarshaw&layout=compact&theme=default&hide_border=true" height="150" />
-</p>
 
 ---
 
