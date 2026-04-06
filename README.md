@@ -18,6 +18,21 @@
 
 ---
 
+## Connect with me
+
+<p>
+  <a href="https://www.linkedin.com/in/shawsujeet/">
+    <img src="https://img.shields.io/badge/LinkedIn-shawsujeet-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sujeetkumarshaw07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sujeetkumarshaw07%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-34A853?style=flat-square&logo=googlemaps&logoColor=white" />
+</p>
+
+---
+
+
 ## Impact at a glance
 
 | Metric | Value |
@@ -133,18 +148,6 @@ Data Engineer specializing in large-scale ETL pipelines, data lake architectures
 `ADF` `Databricks` `PySpark` `Hive` `Apache NiFi` `Tableau`
 
 ---
-
-## Connect with me
-
-<p>
-  <a href="https://www.linkedin.com/in/shawsujeet/">
-    <img src="https://img.shields.io/badge/LinkedIn-shawsujeet-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sujeetkumarshaw07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sujeetkumarshaw07%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-34A853?style=flat-square&logo=googlemaps&logoColor=white" />
-</p>
 
 <!-- Profile views counter -->
 <img src="https://komarev.com/ghpvc/?username=sujeetkumarshaw&color=blue&style=flat-square&label=Profile+views" />
