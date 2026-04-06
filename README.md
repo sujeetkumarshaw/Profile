@@ -98,6 +98,64 @@ Data Engineer specializing in large-scale ETL pipelines, data lake architectures
 
 ---
 
+---
+
+## Experience
+
+### Senior Data Engineer · Apple *(via Payoda Tech)*
+`Jul 2024 – Present` · Hyderabad, India
+
+- Designed end-to-end data pipelines for **Apple Maps**, processing **20+ TB** of geospatial data from multiple sources
+- Built high-performance ETL pipeline processing **5 TB+ daily** Apple Pay transaction data into Snowflake
+- Migrated **15+ pipelines** from Hive → Data Lake + Snowflake on EMR and EKS
+- Architected **Apache Iceberg**-based pipelines for multi-source data (S3, Snowflake) with schema evolution
+- Reduced data latency by **80%** by transitioning from batch snapshots to streaming ingestion
+- Leveraged **GenAI tools** across the development lifecycle — accelerating code generation, automating documentation, and translating business requirements into pipeline-ready artifacts, reducing overall development time by ~30%
+- Built Tableau dashboard for Apple Pay merchant transactions — brand, store & location trend analysis across millions of global records
+
+`PySpark` `Scala` `Snowflake` `Apache Iceberg` `AWS EMR` `Kinesis` `Firehose` `EKS` `S3` `Tableau`
+
+---
+
+### Senior Data Engineer · Allen Digital *(via Recrosoft)*
+`Nov 2023 – Jul 2024` · Bengaluru, India
+
+- Built real-time pipelines using **Kinesis & Firehose** to migrate DynamoDB → Redshift with zero data loss
+- Automated ETL workflows via **AWS DMS, Glue & Airflow** — improving reliability and reducing manual intervention
+- Replaced third-party tools (Hevo, Airbyte, Calvertap) with in-house **PySpark & Scala pipelines** — cutting dependency costs and improving observability
+- Accelerated large-scale Spark batch jobs on EMR — reduced processing time by **~40%** via partitioning & caching
+- Optimized **Redshift WLM** configurations improving query performance by **~30%**
+- Used **OpenAI API** to auto-generate personalized student performance summaries and built an LLM-powered data quality checker to flag anomalies in student records
+- Prototyped a **RAG-based Q&A layer** over Redshift enabling academic coordinators to query student trends in plain English
+
+`PySpark` `Scala` `AWS Glue` `Kinesis` `DMS` `Redshift` `DynamoDB` `MongoDB` `Airflow` `OpenAI API` `RAG` `Power BI`
+
+---
+
+### Data Engineer · American Express *(via Infosys)*
+`Jun 2021 – Oct 2023` · Bhubaneswar, India
+
+- Designed and maintained **30+ production ETL jobs** using ADF, Databricks, PySpark, Scala & Hive — processing large-scale enterprise financial data
+- Built ingestion pipelines from **Teradata & Salesforce** into Hive and Data Lake
+- Designed custom **Apache NiFi processors** (FlowFiles, QueryRecord, PutSFTP, Custom Processors) to automate Salesforce ingestion
+- Implemented automated re-ingestion strategies and log-based failure monitoring ensuring high pipeline uptime
+- Used **GenAI tools** to speed up root cause diagnosis of pipeline failures and auto-generate data lineage docs & pipeline runbooks — reducing MTTR by ~35%
+- Developed Tableau dashboards for financial reporting — revenue, transaction & trend analysis for business stakeholders
+
+`ADF` `Databricks` `PySpark` `Scala` `Hive` `Hadoop` `Apache NiFi` `Teradata` `Salesforce` `Tableau` `GitHub Copilot`
+
+---
+
+### Software Engineer Intern · Veramasa IT
+`Jan 2021 – Jun 2021` · Hyderabad, India
+
+- Built RESTful APIs and web applications using PHP, MySQL, React & Angular
+- Designed and optimized relational databases (MySQL, PostgreSQL) ensuring data integrity and query performance
+
+`PHP` `MySQL` `PostgreSQL` `React` `Angular` `REST APIs` `JavaScript`
+
+---
+
 ## Featured projects
 
 ### Apple Pay & Maps Data Platform *(Payoda Tech · Apple)*
