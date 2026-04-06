@@ -9,10 +9,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-Big%20Data-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-Data%20Stack-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Snowflake-Data%20Warehouse-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-Big%20Data-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Iceberg-Table%20Format-3D9BC4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white" />
   <img src="https://img.shields.io/badge/Databricks-Unified%20Analytics-FF3621?style=flat-square&logo=databricks&logoColor=white" />
 </p>
 
@@ -90,6 +92,7 @@ Data Engineer specializing in large-scale ETL pipelines, data lake architectures
 **Orchestration & Streaming**
 
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Glue](https://img.shields.io/badge/Glue-FF7950?style=flat-square&logo=amazonaws&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Kinesis](https://img.shields.io/badge/Kinesis-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
